@@ -4,6 +4,7 @@ Evaluacion Checkpoint7
 Realización de los ejercicios y preguntas correspondientes al CHECKPOINT7.
 
 https://github.com/JaviZum/CHECKPOINT7.wiki.git
+https://github.com/JaviZum/CHECKPOINT7/wiki/Ejercicios-CHECKPOINT7
 
 **Nota: No he conseguido borrar Home de wikiGitHub, el archivo bueno es ejercicios CHECKPOINT7.**
 
